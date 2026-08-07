@@ -143,6 +143,4 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Your Name**
-
-If you like this project, don't forget to ⭐ the repository.
+**Vengadesh**
